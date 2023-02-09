@@ -1,0 +1,29 @@
+.begin {
+  background: url("../assets/images/begin.png") center/cover no-repeat;
+  padding: 182px 0 275px;
+  &__content {
+    text-align: center;
+  }
+  &__suptitle {
+    font-family: "Lato", serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #EAE9E8;
+  }
+  &__title {
+    font-family: "Lato", serif;
+    font-weight: 500;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #EAE9E8;
+    margin: 8px 0 35px;
+  }
+  &__link {
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.045em;
+    text-transform: uppercase;
+    color: #EAE9E8;
+  }
+}

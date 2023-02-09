@@ -1,0 +1,46 @@
+.arrival {
+  &__row {
+    display: flex;
+  }
+  &__left {
+    width: 50%;
+    background: url("../assets/images/arrival1.png") center/cover no-repeat;
+    padding: 151px 122px 235px 50px;
+  }
+  &__title {
+    font-family: "Lato", serif;
+    font-weight: 500;
+    font-size: 90px;
+    line-height: 102.5%;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  &__desc {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin: 15px 0 34px;
+  }
+  &__link {
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.045em;
+    text-transform: uppercase;
+    color: #EAE9E8;
+  }
+  &__right {
+    width: 50%;
+    background: #CEC6C4;
+    padding: 50px 100px;
+    display: flex;
+    align-items: center;
+  }
+  &__box {
+    background: #FFFFFF;
+    padding: 110px;
+    img {
+      width: 100%;
+    }
+  }
+}

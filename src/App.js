@@ -5,6 +5,9 @@ import "./styles/style.scss"
 import Register from "./pages/Register/Register";
 import Favorites from "./pages/Favorites/Favorites";
 import Cart from "./pages/Cart/Cart";
+import About from "./pages/About/About";
+import Questions from "./pages/Questions/Questions";
+import Brands from "./pages/Brands/Brands";
 
 function App() {
   return (
@@ -15,6 +18,9 @@ function App() {
             <Route path={'/register'} element={<Register/>}/>
             <Route path={'/favorites'} element={<Favorites/>}/>
             <Route path={'/cart'} element={<Cart/>}/>
+            <Route path={'/about'} element={<About/>}/>
+            <Route path={'/questions'} element={<Questions/>}/>
+            <Route path={'/brands'} element={<Brands/>}/>
         </Route>
       </Routes>
     </div>
