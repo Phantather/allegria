@@ -21,7 +21,7 @@ const Header = () => {
                         <NavLink to={'/'} className="header__menu-link">
                             Женщины
                         </NavLink>
-                        <NavLink to={'/'} className="header__menu-link">
+                        <NavLink to={'/products'} className="header__menu-link">
                             Мужчины
                         </NavLink>
                         <div className="header__search">

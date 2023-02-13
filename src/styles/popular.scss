@@ -1,0 +1,38 @@
+.popular {
+  padding: 120px 0;
+
+  & .products__card {
+    width: 100%;
+  }
+  & .popular-btn {
+    width: 90px;
+    height: 90px;
+    background: #FFFFFF;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  & .swiper {
+    padding: 0 40px;
+    position: relative;
+    & .popular-next {
+      position: absolute;
+      top: 50%;
+      right: 0;
+      z-index: 6;
+      transform: translateY(-50%);
+    }
+    & .popular-prev {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      z-index: 6;
+      transform: translateY(-50%);
+    }
+  }
+}
