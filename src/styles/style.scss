@@ -17,9 +17,17 @@
   padding: 0 20px;
 }
 
+.container-small {
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  padding:  0 15px;
+}
+
 @import "header";
 @import "begin";
 @import "arrival";
 @import "footer";
 @import "products";
 @import "popular";
+@import "questions";
