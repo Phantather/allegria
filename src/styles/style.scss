@@ -17,6 +17,14 @@
   padding: 0 20px;
 }
 
+
+.block{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 0;
+}
+
 @import "header";
 @import "begin";
 @import "arrival";

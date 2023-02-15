@@ -1,15 +1,55 @@
 {
+  "users": [
+    {
+      "email": "arsen@mail.ru",
+      "password": "$2a$10$9CsxZgzTGOhua1G6by58sOsoHY7hkE9OmlOLSvsrchiiZHg5Q1gWq",
+      "login": "Arsen",
+      "id": 1
+    },
+    {
+      "email": "maksat@mail.ru",
+      "password": "$2a$10$URx7WhuBCBi3VO0uFsa5CuDs4tm3nLdhmcmeqQ4daMa7iDdPnJ3S2",
+      "login": "maksat",
+      "id": 2
+    },
+    {
+      "email": "joomart@mail.ru",
+      "password": "$2a$10$x/S3Q9yg3skxFEpXidFciutjHZi6Qh7Z..ieAwWfRBGIc5nTb4sEm",
+      "login": "joomart",
+      "id": 3
+    }
+  ],
   "clothes": [
     {
       "id": 1,
       "title": "Nike Dri-FIT Miler",
       "price": 32,
       "sizes": [
-        {"id": 1, "size": "S", "inStock": 10},
-        {"id": 2, "size": "M", "inStock": 6},
-        {"id": 3, "size": "L", "inStock": 8},
-        {"id": 4, "size": "XL", "inStock": 3},
-        {"id": 5, "size": "2XL", "inStock": 11}
+        {
+          "id": 1,
+          "size": "S",
+          "inStock": 10
+        },
+        {
+          "id": 2,
+          "size": "M",
+          "inStock": 6
+        },
+        {
+          "id": 3,
+          "size": "L",
+          "inStock": 8
+        },
+        {
+          "id": 4,
+          "size": "XL",
+          "inStock": 3
+        },
+        {
+          "id": 5,
+          "size": "2XL",
+          "inStock": 11
+        }
       ],
       "images": [
         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/o0crwsj8a1poa6s78wxo/dri-fit-miler-short-sleeve-running-top-dSV6n7.png",
@@ -26,11 +66,31 @@
       "title": "OVERSIZED SHIRT",
       "price": 25,
       "sizes": [
-        {"id": 1, "size": "S", "inStock": 15},
-        {"id": 2, "size": "M", "inStock": 4},
-        {"id": 3, "size": "L", "inStock": 7},
-        {"id": 4, "size": "XL", "inStock": 8},
-        {"id": 5, "size": "2XL", "inStock": 20}
+        {
+          "id": 1,
+          "size": "S",
+          "inStock": 15
+        },
+        {
+          "id": 2,
+          "size": "M",
+          "inStock": 4
+        },
+        {
+          "id": 3,
+          "size": "L",
+          "inStock": 7
+        },
+        {
+          "id": 4,
+          "size": "XL",
+          "inStock": 8
+        },
+        {
+          "id": 5,
+          "size": "2XL",
+          "inStock": 20
+        }
       ],
       "images": [
         "https://static.zara.net/photos///2023/V/0/1/p/4432/013/250/2/w/563/4432013250_1_1_1.jpg?ts=1675349968794",

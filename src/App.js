@@ -9,8 +9,11 @@ import About from "./pages/About/About";
 import Questions from "./pages/Questions/Questions";
 import Brands from "./pages/Brands/Brands";
 import Products from "./pages/Products/Products";
+import Login from "./pages/Login/Login";
 
 function App() {
+
+
   return (
     <div className="App">
       <Routes>
@@ -18,6 +21,7 @@ function App() {
             <Route path={'/'} element={<Home/>}/>
             <Route path={'/products'} element={<Products/>}/>
             <Route path={'/register'} element={<Register/>}/>
+            <Route path={'/login'} element={<Login/>}/>
             <Route path={'/favorites'} element={<Favorites/>}/>
             <Route path={'/cart'} element={<Cart/>}/>
             <Route path={'/about'} element={<About/>}/>
