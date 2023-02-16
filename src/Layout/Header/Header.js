@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useContext} from 'react';
 import {NavLink} from "react-router-dom"
 
 //media
@@ -6,8 +6,15 @@ import logo from '../../assets/images/logo.png'
 import {BiUser} from "react-icons/bi"
 import {GrFavorite} from "react-icons/gr"
 import {BsBag} from "react-icons/bs"
+import {CustomContext} from "../../utils/Context";
 
 const Header = () => {
+
+
+    const {user, logOutUser} = useContext(CustomContext)
+
+    console.log(user)
+
     return (
         <header className="header">
             <div className="container">
@@ -37,9 +44,16 @@ const Header = () => {
                             <p className="header__lang">EN</p>
                         </div>
                         <div className="header__pages">
-                            <NavLink to={'/register'} className="header__pages-link">
-                                <BiUser/>
-                            </NavLink>
+
+                            {
+                                user.email.length ?   <span onClick={logOutUser} className="header__pages-link">
+                                   Выйти
+                                </span> :
+                                    <NavLink to={'/register'} className="header__pages-link">
+                                        <BiUser/>
+                                    </NavLink>
+                            }
+
                             <NavLink to={'/favorites'} className="header__pages-link">
                                 <GrFavorite/>
                             </NavLink>

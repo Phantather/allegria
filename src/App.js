@@ -10,8 +10,14 @@ import Questions from "./pages/Questions/Questions";
 import Brands from "./pages/Brands/Brands";
 import Products from "./pages/Products/Products";
 import Login from "./pages/Login/Login";
+import NotFound from "./pages/NotFound/NotFound";
+import {useContext} from "react";
+import {CustomContext} from "./utils/Context";
+import OneProduct from "./pages/OneProduct/OneProduct";
 
 function App() {
+
+    const {user} = useContext(CustomContext)
 
 
   return (
@@ -20,13 +26,21 @@ function App() {
         <Route path={''} element={<Layout/>}>
             <Route path={'/'} element={<Home/>}/>
             <Route path={'/products'} element={<Products/>}/>
-            <Route path={'/register'} element={<Register/>}/>
-            <Route path={'/login'} element={<Login/>}/>
+            <Route path={'/product/:id'} element={<OneProduct/>}/>
             <Route path={'/favorites'} element={<Favorites/>}/>
             <Route path={'/cart'} element={<Cart/>}/>
             <Route path={'/about'} element={<About/>}/>
             <Route path={'/questions'} element={<Questions/>}/>
             <Route path={'/brands'} element={<Brands/>}/>
+
+            {
+                !user.email.length && <Route path={'/login'} element={<Login/>}/>
+            }
+            {
+                !user.email.length &&  <Route path={'/register'} element={<Register/>}/>
+            }
+
+            <Route path={'*'} element={<NotFound/>}/>
         </Route>
       </Routes>
     </div>

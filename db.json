@@ -17,6 +17,30 @@
       "password": "$2a$10$x/S3Q9yg3skxFEpXidFciutjHZi6Qh7Z..ieAwWfRBGIc5nTb4sEm",
       "login": "joomart",
       "id": 3
+    },
+    {
+      "email": "joomart123@mail.ru",
+      "password": "$2a$10$rzrNQDpWP0tJN6/7/TJsrOKphCrHIRqcJt6IK17hM1PHXHccAQJC.",
+      "login": "joomart",
+      "id": 4
+    },
+    {
+      "email": "kutman@mail.ru",
+      "password": "$2a$10$bAYU5AThtLvMF43jRBtZPuS/VaA5xchzfCxTX2RoohgoDosqQsoaC",
+      "login": "kutman",
+      "id": 5
+    },
+    {
+      "email": "maks1233@mail.ru",
+      "password": "$2a$10$QL6VXGKW2yeFFp.Wg23CsOBi/ZHVqrSCUq7Jol.Fd6QkD4zH7/ynu",
+      "login": "Maks123",
+      "id": 6
+    },
+    {
+      "email": "itrun@mail.ru",
+      "password": "$2a$10$ZxNRV7roLlHZNfyXukmKk./xlVRcfKcyufjgqsNtpKRBcHj9d4zf6",
+      "login": "itrun",
+      "id": 7
     }
   ],
   "clothes": [

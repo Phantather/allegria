@@ -12,7 +12,7 @@ const Form = () => {
 
     const location = useLocation()
 
-    const {registerUser} = useContext(CustomContext)
+    const {registerUser, loginUser} = useContext(CustomContext)
 
 
 
@@ -26,7 +26,13 @@ const Form = () => {
     } = useForm({mode: "onBlur"})
 
     const onSubmitForm = (data) => {
-        registerUser(data)
+        if (location.pathname === '/register') {
+            registerUser(data)
+        } else {
+            console.log(data)
+            loginUser(data)
+        }
+
     }
 
 
