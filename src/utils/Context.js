@@ -11,6 +11,8 @@ export const Context = (props) => {
         email: ''
     })
 
+    const [products, setProducts] = useState([]);
+
 
     useEffect(() => {
         if (localStorage.getItem('user') !== null) {
@@ -51,8 +53,16 @@ export const Context = (props) => {
         navigate('/')
     }
 
+    const getAllProducts = () => {
+        axios('http://localhost:8080/clothes')
+            .then(({data}) => setProducts(data))
+            .catch((erros) => console.log(erros))
+    }
+
     const value = {
         user,
+        products, setProducts,
+        getAllProducts,
         registerUser,
         logOutUser,
         loginUser

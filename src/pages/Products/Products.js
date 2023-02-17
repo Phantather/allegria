@@ -1,16 +1,10 @@
-import React, {useEffect, useState} from 'react';
-import axios from "axios";
+import React, {useContext, useEffect} from 'react';
 import {Link} from "react-router-dom";
+import {CustomContext} from "../../utils/Context";
 
 const Products = () => {
 
-    const [products, setProducts] = useState([]);
-
-    const getAllProducts = () => {
-        axios('http://localhost:8080/clothes')
-            .then(({data}) => setProducts(data))
-            .catch((erros) => console.log(erros))
-    }
+    const {products, getAllProducts} = useContext(CustomContext)
 
     useEffect(() => {
         getAllProducts()
@@ -25,7 +19,7 @@ const Products = () => {
                             products.map((item) => (
                                 <div className="products__card" key={item.id}>
                                     <Link to={`/product/${item.id}`}>
-                                        <img src={item.images[0]} alt="" className="products__card-img"/>
+                                        <img src={item.img[0]} alt="" className="products__card-img"/>
                                     </Link>
 
                                     <h2 className="products__card-title">
