@@ -19,6 +19,7 @@ const OneProduct = () => {
         return <h2>...Loading</h2>
     }
 
+    console.log(product.colors)
 
     return (
         <section className="product">
@@ -45,6 +46,15 @@ const OneProduct = () => {
                                         <li className="product__sizes-item" key={item.id}>
                                             {item.size}
                                         </li>
+                                    ))
+                                }
+                            </ul>
+                        </div>
+                        <div className="product__colors">
+                            <ul className="product__colors-list">
+                                {
+                                    product.colors.map((item) => (
+                                        <li className="product__colors-item" style={{background: item.color}}/>
                                     ))
                                 }
                             </ul>

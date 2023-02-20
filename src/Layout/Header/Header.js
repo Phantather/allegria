@@ -1,5 +1,7 @@
 import React, {useContext} from 'react';
 import {NavLink} from "react-router-dom"
+import {useTranslation} from "react-i18next"
+import "../../i18n"
 
 //media
 import logo from '../../assets/images/logo.png'
@@ -10,8 +12,12 @@ import {CustomContext} from "../../utils/Context";
 
 const Header = () => {
 
-
+    const {t, i18n} = useTranslation()
     const {user, logOutUser} = useContext(CustomContext)
+
+    const changeLanguage = (lang) => {
+        i18n.changeLanguage(lang)
+    }
 
     console.log(user)
 
@@ -26,22 +32,26 @@ const Header = () => {
                     </NavLink>
                     <div className="header__menu">
                         <NavLink to={'/'} className="header__menu-link">
-                            Женщины
+                            {t("header.link1")}
                         </NavLink>
                         <NavLink to={'/products'} className="header__menu-link">
-                            Мужчины
+                            {t("header.link2")}
                         </NavLink>
                         <div className="header__search">
                             <p className="header__search-text">
-                                Поиск
+                                {t("header.search")}
                             </p>
                             <input type="search" className="header__search-input"/>
                         </div>
                     </div>
                     <div className="header__right">
                         <div className="header__langs">
-                            <p className="header__lang">RU</p>
-                            <p className="header__lang">EN</p>
+                            <p className="header__lang"
+                               style={{color: i18n.language === 'ru' ? 'red' : ''}}
+                               onClick={() => changeLanguage('ru')}>RU</p>
+                            <p className="header__lang"
+                               style={{color: i18n.language === 'en' ? 'red' : ''}}
+                               onClick={() => changeLanguage('en')}>EN</p>
                         </div>
                         <div className="header__pages">
 

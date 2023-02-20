@@ -82,6 +82,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "New Balance",
       "gender": "men"
     },
@@ -124,6 +146,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -165,6 +209,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -206,6 +272,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -247,6 +335,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Lacoste",
       "gender": "men"
     },
@@ -288,6 +398,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -330,6 +462,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -372,6 +526,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -414,6 +590,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "DG",
       "gender": "woman"
     },
@@ -455,6 +653,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Adidas",
       "gender": "woman"
     },
@@ -496,6 +716,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Potter",
       "gender": "men"
     },
@@ -537,6 +779,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Polo",
       "gender": "men"
     },
@@ -578,6 +842,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Lacoste",
       "gender": "men"
     },
@@ -619,6 +905,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "DG",
       "gender": "men"
     },
@@ -660,6 +968,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Hugo Boss",
       "gender": "men"
     },
@@ -701,6 +1031,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Celine",
       "gender": "woman"
     },
@@ -742,6 +1094,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Balenciaga",
       "gender": "woman"
     },
@@ -783,6 +1157,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Loewe",
       "gender": "woman"
     },
@@ -824,6 +1220,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Prada",
       "gender": "woman"
     },
@@ -865,6 +1283,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "TB",
       "gender": "woman"
     },
@@ -907,6 +1347,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "zara",
       "gender": "men"
     },
@@ -949,6 +1411,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "levis",
       "gender": "men"
     },
@@ -991,6 +1475,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "zara",
       "gender": "men"
     },
@@ -1033,6 +1539,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "zara",
       "gender": "men"
     },
@@ -1075,6 +1603,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "levis",
       "gender": "men"
     },
@@ -1117,6 +1667,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "zara",
       "gender": "woman"
     },
@@ -1159,6 +1731,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "levis",
       "gender": "woman"
     },
@@ -1201,6 +1795,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "zara",
       "gender": "woman"
     },
@@ -1243,6 +1859,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "zara",
       "gender": "woman"
     },
@@ -1285,6 +1923,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "levis",
       "gender": "woman"
     },
@@ -1326,6 +1986,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "NASA",
       "gender": "men"
     },
@@ -1367,6 +2049,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "MOST",
       "gender": "men"
     },
@@ -1408,6 +2112,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Gucci",
       "gender": "men"
     },
@@ -1449,6 +2175,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "NASA",
       "gender": "men"
     },
@@ -1490,6 +2238,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "MOST",
       "gender": "men"
     },
@@ -1531,6 +2301,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "A&J",
       "gender": "woman"
     },
@@ -1572,6 +2364,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "A&J",
       "gender": "woman"
     },
@@ -1613,6 +2427,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "A&J",
       "gender": "woman"
     },
@@ -1654,6 +2490,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "A&J",
       "gender": "woman"
     },
@@ -1695,6 +2553,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "A&J",
       "gender": "woman"
     },
@@ -1736,6 +2616,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -1777,6 +2679,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -1818,6 +2742,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -1859,6 +2805,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -1900,6 +2868,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -1941,6 +2931,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -1982,6 +2994,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2023,6 +3057,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2064,6 +3120,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2105,6 +3183,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2146,6 +3246,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2187,6 +3309,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2228,6 +3372,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2269,6 +3435,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2310,6 +3498,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2351,6 +3561,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2392,6 +3624,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2433,6 +3687,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2474,6 +3750,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2515,6 +3813,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2556,6 +3876,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2597,6 +3939,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2638,6 +4002,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2679,6 +4065,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2720,6 +4128,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2761,6 +4191,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2802,6 +4254,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -2843,6 +4317,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2884,6 +4380,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2925,6 +4443,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -2966,6 +4506,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3007,6 +4569,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3048,6 +4632,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3089,6 +4695,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3130,6 +4758,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3171,6 +4821,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3212,6 +4884,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3253,6 +4947,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3294,6 +5010,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3335,6 +5073,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3376,6 +5136,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3417,6 +5199,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3458,6 +5262,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3499,6 +5325,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3540,6 +5388,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3581,6 +5451,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3622,6 +5514,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3663,6 +5577,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3704,6 +5640,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3745,6 +5703,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3786,6 +5766,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3827,6 +5829,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3868,6 +5892,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "men"
     },
@@ -3909,6 +5955,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3950,6 +6018,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -3991,6 +6081,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -4032,6 +6144,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -4073,6 +6207,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -4114,6 +6270,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     },
@@ -4155,6 +6333,28 @@
         }
       ],
       "review": [],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "color": "red",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "inStock": 1
+        }
+      ],
       "brand": "Nike",
       "gender": "woman"
     }

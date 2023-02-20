@@ -58,6 +58,19 @@
       color: #0F303F;
     }
   }
+  &__colors {
+    margin-bottom: 20px;
+    &-list {
+      display: flex;
+      column-gap: 15px;
+    }
+    &-item {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      border: 1px solid #EAE9E8;
+    }
+  }
   &__btns {
     display: flex;
     flex-direction: column;

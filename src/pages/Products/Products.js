@@ -10,6 +10,7 @@ const Products = () => {
         getAllProducts()
     },[])
 
+
     return (
         <main>
             <section className="products">
