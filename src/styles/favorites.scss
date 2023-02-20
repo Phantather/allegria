@@ -1,0 +1,16 @@
+.favorites{
+  padding: 100px 0;
+  &__row{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+  &__card{
+    position: relative;
+    &-close{
+      position: absolute;
+      top: 20px;
+      right: 20px;
+    }
+  }
+}

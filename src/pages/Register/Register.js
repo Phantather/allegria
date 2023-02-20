@@ -8,6 +8,8 @@ const Register = () => {
         <div className='block'>
 
             <Form/>
+
+
         </div>
     );
 };

@@ -13,14 +13,36 @@ export const Context = (props) => {
 
     const [products, setProducts] = useState([]);
 
+    const [favorites, setFavorites] = useState([])
+
+
+
+    const changeFavorites = (item) => {
+        if (favorites.findIndex(el => el.id === item.id ) > -1) {
+            setFavorites(favorites.filter(el => el.id !== item.id))
+        } else {
+            setFavorites([...favorites, item])
+        }
+
+    }
+
+
 
     useEffect(() => {
         if (localStorage.getItem('user') !== null) {
             setUser(JSON.parse(localStorage.getItem('user')))
         }
 
+        if (localStorage.getItem('favorites') !== null) {
+            setFavorites(JSON.parse(localStorage.getItem('favorites')))
+        }
+
     }, [])
 
+
+    useEffect(() => {
+        localStorage.setItem('favorites', JSON.stringify(favorites))
+    }, [favorites])
 
     const navigate = useNavigate()
 
@@ -65,7 +87,9 @@ export const Context = (props) => {
         getAllProducts,
         registerUser,
         logOutUser,
-        loginUser
+        loginUser,
+        changeFavorites,
+        favorites
     }
 
     return <CustomContext.Provider value={value}>

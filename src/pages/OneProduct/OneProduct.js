@@ -1,12 +1,18 @@
-import React, {useEffect, useState} from 'react';
+import React, {useContext, useEffect, useState} from 'react';
 import axios from "axios";
 import {useLocation, useParams} from "react-router-dom";
+import {Icon} from "@chakra-ui/react";
+import {BsFillHeartFill} from "react-icons/bs";
+import {CustomContext} from "../../utils/Context";
 
 const OneProduct = () => {
 
     const [product, setProduct] = useState({})
 
     const params = useParams()
+
+
+    const {changeFavorites, favorites}= useContext(CustomContext)
 
     useEffect(() => {
         axios(`http://localhost:8080/clothes/${params.id}`)
@@ -24,8 +30,13 @@ const OneProduct = () => {
         <section className="product">
             <div className="container-small">
                 <div className="product__row">
+
+
                     <div className="product__images">
                         <img src={`.${product.img[0]}`} alt=""/>
+                        <div className='product__heart' onClick={() => changeFavorites(product)}>
+                            <Icon color={favorites.findIndex(el => el.id === product.id ) > -1 ? 'red' : 'black'} as={BsFillHeartFill}></Icon>
+                        </div>
                     </div>
                     <div className="product__info">
                         <h2 className="product__title">

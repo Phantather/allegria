@@ -13,7 +13,7 @@ const Header = () => {
 
     const {user, logOutUser} = useContext(CustomContext)
 
-    console.log(user)
+
 
     return (
         <header className="header">
