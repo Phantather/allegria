@@ -15,6 +15,7 @@ export const Context = (props) => {
 
     const [favorites, setFavorites] = useState([])
 
+    const [cart, setCart] = useState([])
 
 
     const changeFavorites = (item) => {
@@ -26,6 +27,13 @@ export const Context = (props) => {
 
     }
 
+    const changeCart = (item) => {
+        if (cart.findIndex(el => el.id === item.id) > - 1) {
+            setCart(cart.filter(el => el.id !== item.id))
+        } else {
+            setCart([...cart, item])
+        }
+    }
 
 
     useEffect(() => {
@@ -89,7 +97,10 @@ export const Context = (props) => {
         logOutUser,
         loginUser,
         changeFavorites,
-        favorites
+        favorites,
+        cart,
+        changeCart,
+        setCart
     }
 
     return <CustomContext.Provider value={value}>

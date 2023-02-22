@@ -3,5 +3,8 @@
     "link1": "Women",
     "link2": "Men",
     "search": "Search"
+  },
+  "cart": {
+    "title": "Basket"
   }
 }

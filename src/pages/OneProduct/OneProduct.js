@@ -1,6 +1,6 @@
 import React, {useContext, useEffect, useState} from 'react';
 import axios from "axios";
-import {useLocation, useParams} from "react-router-dom";
+import {useLocation, useNavigate, useParams} from "react-router-dom";
 import {Icon} from "@chakra-ui/react";
 import {BsFillHeartFill} from "react-icons/bs";
 import {CustomContext} from "../../utils/Context";
@@ -24,8 +24,10 @@ const OneProduct = () => {
 
     const params = useParams()
 
+    const navigate = useNavigate()
 
-    const {changeFavorites, favorites}= useContext(CustomContext)
+
+    const {changeFavorites, favorites, changeCart, cart}= useContext(CustomContext)
 
     const [thumbsSwiper, setThumbsSwiper] = useState(null);
 
@@ -147,10 +149,16 @@ const OneProduct = () => {
                             </ul>
                         </div>
                         <div className="product__btns">
-                            <button className="product__btn">
-                                добавить в корзину
+                            <button onClick={() => changeCart(product)} className="product__btn">
+                                {cart.findIndex(el => el.id === product.id) > - 1 ? 'Удалить из корзины' : 'Добавить в корзину'}
+
                             </button>
-                            <button className="product__btn">
+                            <button
+                                disabled={cart.findIndex(el => el.id === product.id) > - 1}
+                                onClick={() => {
+                                changeCart(product)
+                                navigate('/cart')
+                            } } className="product__btn">
                                 купить в один клик
                             </button>
                         </div>

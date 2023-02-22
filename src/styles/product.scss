@@ -128,5 +128,12 @@
       background: transparent;
       color: #0F303F;
     }
+    &:disabled{
+      opacity: 50%;
+      &:hover{
+        background: #0F303F;
+        color: #EAE9E8;
+      }
+    }
   }
 }

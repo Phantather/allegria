@@ -41,6 +41,12 @@
       "password": "$2a$10$ZxNRV7roLlHZNfyXukmKk./xlVRcfKcyufjgqsNtpKRBcHj9d4zf6",
       "login": "itrun",
       "id": 7
+    },
+    {
+      "email": "maxbirimkulov@mail.ru",
+      "password": "$2a$10$/qJNMxBhVnp/xpO6VmeS/ujpTB5bWgV3Xcp54dqe6Lw9HYZM3F4Uq",
+      "login": "max33",
+      "id": 8
     }
   ],
   "clothes": [
@@ -6357,6 +6363,293 @@
       ],
       "brand": "Nike",
       "gender": "woman"
+    }
+  ],
+  "orders": [
+    {
+      "name": "Maksat",
+      "surname": "Birimkulov",
+      "email": "maxbirimkulov@mail.ru",
+      "phone": "+996(555)55-55-55",
+      "pay": "card",
+      "products": [
+        {
+          "id": 2,
+          "title": "Nike Jordan Air",
+          "price": 150,
+          "category": "shoes",
+          "img": [
+            "./catalog/shoes/2_1.jpg",
+            "./catalog/shoes/2_2.jpg",
+            "./catalog/shoes/2_3.jpg",
+            "./catalog/shoes/2_4.jpg"
+          ],
+          "sizes": [
+            {
+              "id": 1,
+              "size": 38,
+              "inStock": 3
+            },
+            {
+              "id": 2,
+              "size": 39,
+              "inStock": 0
+            },
+            {
+              "id": 3,
+              "size": 40,
+              "inStock": 3
+            },
+            {
+              "id": 4,
+              "size": 41,
+              "inStock": 2
+            },
+            {
+              "id": 5,
+              "size": 42,
+              "inStock": 5
+            }
+          ],
+          "review": [],
+          "colors": [
+            {
+              "id": 1,
+              "color": "white",
+              "inStock": 1
+            },
+            {
+              "id": 2,
+              "color": "red",
+              "inStock": 1
+            },
+            {
+              "id": 3,
+              "color": "blue",
+              "inStock": 1
+            },
+            {
+              "id": 4,
+              "color": "black",
+              "inStock": 1
+            }
+          ],
+          "brand": "Nike",
+          "gender": "men"
+        },
+        {
+          "id": 1,
+          "title": "New Balance 450",
+          "price": 250,
+          "category": "shoes",
+          "img": [
+            "./catalog/shoes/1_1.jpg",
+            "./catalog/shoes/1_2.jpg",
+            "./catalog/shoes/1_3.jpg"
+          ],
+          "sizes": [
+            {
+              "id": 1,
+              "size": 38,
+              "inStock": 0
+            },
+            {
+              "id": 2,
+              "size": 39,
+              "inStock": 4
+            },
+            {
+              "id": 3,
+              "size": 40,
+              "inStock": 3
+            },
+            {
+              "id": 4,
+              "size": 41,
+              "inStock": 2
+            },
+            {
+              "id": 5,
+              "size": 42,
+              "inStock": 5
+            }
+          ],
+          "review": [],
+          "colors": [
+            {
+              "id": 1,
+              "color": "white",
+              "inStock": 1
+            },
+            {
+              "id": 2,
+              "color": "red",
+              "inStock": 1
+            },
+            {
+              "id": 3,
+              "color": "blue",
+              "inStock": 1
+            },
+            {
+              "id": 4,
+              "color": "black",
+              "inStock": 1
+            }
+          ],
+          "brand": "New Balance",
+          "gender": "men"
+        },
+        {
+          "id": 3,
+          "title": "Nike",
+          "price": 180,
+          "category": "shoes",
+          "img": [
+            "./catalog/shoes/3_1.jpg",
+            "./catalog/shoes/3_2.jpg",
+            "./catalog/shoes/3_3.jpg"
+          ],
+          "sizes": [
+            {
+              "id": 1,
+              "size": 38,
+              "inStock": 3
+            },
+            {
+              "id": 2,
+              "size": 39,
+              "inStock": 4
+            },
+            {
+              "id": 3,
+              "size": 40,
+              "inStock": 0
+            },
+            {
+              "id": 4,
+              "size": 41,
+              "inStock": 2
+            },
+            {
+              "id": 5,
+              "size": 42,
+              "inStock": 5
+            }
+          ],
+          "review": [],
+          "colors": [
+            {
+              "id": 1,
+              "color": "white",
+              "inStock": 1
+            },
+            {
+              "id": 2,
+              "color": "red",
+              "inStock": 1
+            },
+            {
+              "id": 3,
+              "color": "blue",
+              "inStock": 1
+            },
+            {
+              "id": 4,
+              "color": "black",
+              "inStock": 1
+            }
+          ],
+          "brand": "Nike",
+          "gender": "men"
+        }
+      ],
+      "price": 580,
+      "user": {
+        "email": "maxbirimkulov@mail.ru",
+        "login": "max33",
+        "id": 8
+      },
+      "id": 1
+    },
+    {
+      "name": "Maksat",
+      "surname": "Birimkulov",
+      "email": "maxbirimkulov@mail.ru",
+      "phone": "+996(123)12-32-13",
+      "pay": "card",
+      "products": [
+        {
+          "id": 3,
+          "title": "Nike",
+          "price": 180,
+          "category": "shoes",
+          "img": [
+            "./catalog/shoes/3_1.jpg",
+            "./catalog/shoes/3_2.jpg",
+            "./catalog/shoes/3_3.jpg"
+          ],
+          "sizes": [
+            {
+              "id": 1,
+              "size": 38,
+              "inStock": 3
+            },
+            {
+              "id": 2,
+              "size": 39,
+              "inStock": 4
+            },
+            {
+              "id": 3,
+              "size": 40,
+              "inStock": 0
+            },
+            {
+              "id": 4,
+              "size": 41,
+              "inStock": 2
+            },
+            {
+              "id": 5,
+              "size": 42,
+              "inStock": 5
+            }
+          ],
+          "review": [],
+          "colors": [
+            {
+              "id": 1,
+              "color": "white",
+              "inStock": 1
+            },
+            {
+              "id": 2,
+              "color": "red",
+              "inStock": 1
+            },
+            {
+              "id": 3,
+              "color": "blue",
+              "inStock": 1
+            },
+            {
+              "id": 4,
+              "color": "black",
+              "inStock": 1
+            }
+          ],
+          "brand": "Nike",
+          "gender": "men"
+        }
+      ],
+      "price": 180,
+      "user": {
+        "email": "maxbirimkulov@mail.ru",
+        "login": "max33",
+        "id": 8
+      },
+      "id": 2
     }
   ]
 }
