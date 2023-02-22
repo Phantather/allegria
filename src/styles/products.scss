@@ -9,6 +9,27 @@
   &__card {
     width: calc(33.33333% - 10px);
     text-align: center;
+    position: relative;
+    &-heart{
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      height: 45px;
+      width: 45px;
+      border-radius: 50%;
+      background: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 22px;
+      cursor: pointer;
+      &:hover{
+        svg{
+          color:red ;
+        }
+      }
+    }
+
     &-img {
       width: 100%;
       height: 400px;
