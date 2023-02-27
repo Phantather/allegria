@@ -14,6 +14,8 @@ import NotFound from "./pages/NotFound/NotFound";
 import {useContext} from "react";
 import {CustomContext} from "./utils/Context";
 import OneProduct from "./pages/OneProduct/OneProduct";
+import Profile from "./pages/Profile/Profile";
+import Orders from "./pages/Orders/Orders";
 
 function App() {
 
@@ -32,6 +34,8 @@ function App() {
             <Route path={'/about'} element={<About/>}/>
             <Route path={'/questions'} element={<Questions/>}/>
             <Route path={'/brands'} element={<Brands/>}/>
+            <Route path={'/orders'} element={<Orders/>}/>
+            <Route path={'/myprofile'} element={<Profile/>}/>
 
             {
                 !user.email.length && <Route path={'/login'} element={<Login/>}/>

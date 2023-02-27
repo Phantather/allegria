@@ -47,6 +47,18 @@
       "password": "$2a$10$/qJNMxBhVnp/xpO6VmeS/ujpTB5bWgV3Xcp54dqe6Lw9HYZM3F4Uq",
       "login": "max33",
       "id": 8
+    },
+    {
+      "email": "akdil.phanti@gmail.com",
+      "password": "$2a$10$c8W/cmjyTI96imCwlJbO7uG6bDYA0WOm02BP0EixJhsNXPU5JGLS.",
+      "login": "Phantather",
+      "id": 9
+    },
+    {
+      "email": "jaane.smith1983@gmail.com",
+      "password": "$2a$10$TX8v1yJcinYw0k6Ph1bPR.pnX2TY00y7CyXGaEeG4HwXsFnwCKLei",
+      "login": "Akdil",
+      "id": 10
     }
   ],
   "clothes": [
@@ -6650,6 +6662,165 @@
         "id": 8
       },
       "id": 2
+    },
+    {
+      "name": "asdasd",
+      "surname": "asdas",
+      "email": "akdil.phanti@gmail.com",
+      "phone": "+996(501)25-12-21",
+      "pay": null,
+      "products": [
+        {
+          "id": 44,
+          "title": "Nike Go FlyEase",
+          "price": 120,
+          "category": "shoes",
+          "img": [
+            "./catalog/shoes/nike10.webp",
+            "./catalog/shoes/nike11.webp",
+            "./catalog/shoes/nike12.webp"
+          ],
+          "sizes": [
+            {
+              "id": 1,
+              "size": 38,
+              "inStock": 3
+            },
+            {
+              "id": 2,
+              "size": 39,
+              "inStock": 0
+            },
+            {
+              "id": 3,
+              "size": 40,
+              "inStock": 3
+            },
+            {
+              "id": 4,
+              "size": 41,
+              "inStock": 2
+            },
+            {
+              "id": 5,
+              "size": 42,
+              "inStock": 5
+            }
+          ],
+          "review": [],
+          "colors": [
+            {
+              "id": 1,
+              "color": "white",
+              "inStock": 1
+            },
+            {
+              "id": 2,
+              "color": "red",
+              "inStock": 1
+            },
+            {
+              "id": 3,
+              "color": "blue",
+              "inStock": 1
+            },
+            {
+              "id": 4,
+              "color": "black",
+              "inStock": 1
+            }
+          ],
+          "brand": "Nike",
+          "gender": "men"
+        }
+      ],
+      "price": 120,
+      "user": {
+        "email": "akdil.phanti@gmail.com",
+        "login": "Phantather",
+        "id": 9
+      },
+      "id": 3
+    },
+    {
+      "name": "asdasd",
+      "surname": "Кубанычбеков",
+      "email": "jaane.smith1983@gmail.com",
+      "phone": "+996(222)22-22-22",
+      "pay": "card",
+      "products": [
+        {
+          "id": 2,
+          "title": "Nike Jordan Air",
+          "price": 150,
+          "category": "shoes",
+          "img": [
+            "./catalog/shoes/2_1.jpg",
+            "./catalog/shoes/2_2.jpg",
+            "./catalog/shoes/2_3.jpg",
+            "./catalog/shoes/2_4.jpg"
+          ],
+          "sizes": [
+            {
+              "id": 1,
+              "size": 38,
+              "inStock": 3
+            },
+            {
+              "id": 2,
+              "size": 39,
+              "inStock": 0
+            },
+            {
+              "id": 3,
+              "size": 40,
+              "inStock": 3
+            },
+            {
+              "id": 4,
+              "size": 41,
+              "inStock": 2
+            },
+            {
+              "id": 5,
+              "size": 42,
+              "inStock": 5
+            }
+          ],
+          "review": [],
+          "colors": [
+            {
+              "id": 1,
+              "color": "white",
+              "inStock": 1
+            },
+            {
+              "id": 2,
+              "color": "red",
+              "inStock": 1
+            },
+            {
+              "id": 3,
+              "color": "blue",
+              "inStock": 1
+            },
+            {
+              "id": 4,
+              "color": "black",
+              "inStock": 1
+            }
+          ],
+          "brand": "Nike",
+          "gender": "men"
+        }
+      ],
+      "price": 150,
+      "user": {
+        "email": "jaane.smith1983@gmail.com",
+        "login": "Akdil",
+        "id": 10
+      },
+      "id": 4
     }
   ]
 }

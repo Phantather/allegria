@@ -1,6 +1,7 @@
 import {createContext, useEffect, useState} from "react";
 import axios from "axios";
 import {useNavigate} from 'react-router-dom'
+import {use} from "i18next";
 
 
 export const CustomContext = createContext()
@@ -16,6 +17,8 @@ export const Context = (props) => {
     const [favorites, setFavorites] = useState([])
 
     const [cart, setCart] = useState([])
+
+    const [orders, setOrders] = useState([])
 
 
     const changeFavorites = (item) => {
@@ -54,6 +57,8 @@ export const Context = (props) => {
 
     const navigate = useNavigate()
 
+
+
     const registerUser = (data) => {
         axios.post('http://localhost:8080/register', data)
             .then((res) => {
@@ -89,6 +94,12 @@ export const Context = (props) => {
             .catch((erros) => console.log(erros))
     }
 
+    const getAllOrders = () => {
+        axios('http://localhost:8080/orders')
+            .then(({data}) => setOrders(data))
+            .catch((erros) => console.log(erros))
+    }
+
     const value = {
         user,
         products, setProducts,
@@ -100,7 +111,10 @@ export const Context = (props) => {
         favorites,
         cart,
         changeCart,
-        setCart
+        setCart,
+        orders,
+        setOrders,
+        getAllOrders
     }
 
     return <CustomContext.Provider value={value}>

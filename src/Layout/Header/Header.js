@@ -13,7 +13,7 @@ import {CustomContext} from "../../utils/Context";
 const Header = () => {
 
     const {t, i18n} = useTranslation()
-    const {user, logOutUser} = useContext(CustomContext)
+    const {user} = useContext(CustomContext)
 
 
     const changeLanguage = (lang) => {
@@ -57,9 +57,11 @@ const Header = () => {
                         <div className="header__pages">
 
                             {
-                                user.email.length ?   <span onClick={logOutUser} className="header__pages-link">
-                                   Выйти
-                                </span> :
+                                user.email.length ?
+                                    <NavLink to={'/myprofile'} className="header__pages-link">
+                                        <BiUser/>
+                                    </NavLink>
+                                    :
                                     <NavLink to={'/register'} className="header__pages-link">
                                         <BiUser/>
                                     </NavLink>
